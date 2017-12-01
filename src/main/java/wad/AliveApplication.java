@@ -11,14 +11,14 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/taateli/alive-";
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/taateli/alive-";
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://alivesoon.herokuapp.com/";
     }
 }
